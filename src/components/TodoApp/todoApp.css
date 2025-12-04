@@ -1,0 +1,8 @@
+main {
+    width: 75%;
+    margin: 25px auto;
+    max-width: 1000px;
+    box-shadow: 0 0 3px;
+    border-radius: 3px;
+    padding: 5px;
+}
