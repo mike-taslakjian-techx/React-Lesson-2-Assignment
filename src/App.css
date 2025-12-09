@@ -15,6 +15,14 @@
     --green: #090;
 }
 
+.dark {
+    --background-color: #b6b3b3;
+    --black: #EEE;              
+    --white: #7c7474;              
+    --dark-blue: #515c7e;       
+
+}
+
 body {
     height: 100vh;
     background-color: var(--background-color);

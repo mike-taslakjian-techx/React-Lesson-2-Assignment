@@ -7,3 +7,15 @@ header {
     align-items: center;
     position: relative
 }
+
+
+.theme-btn {
+  margin-left: 50px;
+  padding: 5px 10px;
+  cursor: pointer;
+  
+}
+
+.theme-btn:hover {
+  opacity: 0.8;
+}
