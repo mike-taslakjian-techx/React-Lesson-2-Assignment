@@ -1,0 +1,21 @@
+header {
+    height: 75px;
+    background-color: var(--black);
+    color: var(--white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative
+}
+
+
+.theme-btn {
+  margin-left: 50px;
+  padding: 5px 10px;
+  cursor: pointer;
+  
+}
+
+.theme-btn:hover {
+  opacity: 0.8;
+}
